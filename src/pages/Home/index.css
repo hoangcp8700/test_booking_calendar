@@ -1,0 +1,14 @@
+.booking_table {
+  border-collapse: collapse;
+}
+.booking_table th {
+  background: #fff;
+  color: #000;
+}
+
+.booking_table td {
+  border: 1px solid #ccc;
+  text-align: center;
+  padding: 50px 0;
+  vertical-align: middle;
+}
